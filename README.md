@@ -56,24 +56,23 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 
 ## Module 1 - College Math I (Calculus)
-- [ ] https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5
+
 - [ ] [Khan - Differential Calculus](https://www.khanacademy.org/mission/differential-calculus) - 8%
 - [ ] [Khan - Integral Calculus](https://www.khanacademy.org/mission/integral-calculus) - 7%
-- [ ] [Coursera - Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [ ] [Khan - AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab) - 2%
 - [ ] [Khan - AP Calculus BC](https://www.khanacademy.org/mission/ap-calculus-bc) - 2%
 - [ ] [MIT - Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
-- [ ] [Coursera - Introduction to Complex Analysis](https://www.coursera.org/learn/complex-analysis/home/welcome)
-
-#### Differential Equations
-- [ ] https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/
-- [ ] https://www.khanacademy.org/math/differential-equations
 
 *Supplementary Material*
 * [Calculus, Better Explained](https://betterexplained.com/calculus/lesson-1)
 * [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 * [Engineering Math](https://www.youtube.com/watch?v=oL15D_1Y0wk&list=PLwV-9DG53NDzJ32JwfCQLpbdK5Ys4bM4P)
-* http://adit.io/posts/2018-02-18-Introduction-To-Calculus-With-Derivatives.html
+* [Intro to Calculus with Derivatives](http://adit.io/posts/2018-02-18-Introduction-To-Calculus-With-Derivatives.html)
+* [Coursera - Introduction to Complex Analysis](https://www.coursera.org/learn/complex-analysis/home/welcome)
+* [Coursera - Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/specializations/mathematics-machine-learning)
+* [Prof. Leonard - Calculus I](https://www.youtube.com/playlist?list=PLF797E961509B4EB5)
+* [MIT - Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
+* [Khan - Differential Equations](https://www.khanacademy.org/math/differential-equations)
 
 ## Module 2 - College Math II (Linear Algebra)
 
@@ -197,11 +196,15 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
 ### Algorithms
 
-- [X] [Coursera - Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)
-- [X] [Coursera - Graph Search, Shortest Path, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)
-- [X] [Coursera - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)
-- [ ] [Coursera - Shortest Paths Revisited, NP-Complete Problems](https://www.coursera.org/learn/algorithms-npcomplete)
+- [X] [Coursera - Divide and Conquer, Sorting and Searching, and Randomized Algorithms][algs01]
+- [X] [Coursera - Graph Search, Shortest Path, and Data Structures][algs02]
+- [X] [Coursera - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming][algs03]
+- [ ] [Coursera - Shortest Paths Revisited, NP-Complete Problems][algs04]
 
+[algs01]: https://www.coursera.org/learn/algorithms-divide-conquer
+[algs02]: https://www.coursera.org/learn/algorithms-graphs-data-structures
+[algs03]: https://www.coursera.org/learn/algorithms-greedy
+[algs04]: https://www.coursera.org/learn/algorithms-npcomplete
 
 *Resources*
 - [X] 📚 [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
@@ -227,11 +230,12 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 * [Programming Conversations](https://www.youtube.com/playlist?list=PLHxtyCq_WDLV5N5zUCBCDC2WqF1VBDGg1)
 * [Efficient Programming with Components](https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD)
 * [Four Algorithmic Journeys](https://www.youtube.com/playlist?list=PLHxtyCq_WDLV5N5zUCBCDC2WqF1VBDGg1)
-
+* [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)
+* [Data Structures & Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+* [Approximation Algorithms I & II](https://www.coursera.org/learn/approximation-algorithms-part-1)
 
 
 #### Information Theory
-
 
 #### Python and Computation and Data
 * https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10
