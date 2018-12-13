@@ -1,6 +1,6 @@
 # Data Science Masters
 
-Self-study plan to achieve zero to mastery in data science.
+Zero to mastery in data science.
 
 ## Goals
 
@@ -36,23 +36,23 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 #### Algebra
 
-- [X] [Khan - Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra)
-- [X] [Khan - Algebra I](https://www.khanacademy.org/mission/algebra)
-- [X] [Khan - Algebra II](https://www.khanacademy.org/mission/algebra2)
+- [ ] [Khan - Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra)
+- [ ] [Khan - Algebra I](https://www.khanacademy.org/mission/algebra)
+- [ ] [Khan - Algebra II](https://www.khanacademy.org/mission/algebra2)
 
 #### Geometry
 
-- [X] [Khan - Geometry](https://www.khanacademy.org/mission/geometry)
-- [X] [Khan - Trigonometry](https://www.khanacademy.org/mission/trigonometry)
+- [ ] [Khan - Geometry](https://www.khanacademy.org/mission/geometry)
+- [ ] [Khan - Trigonometry](https://www.khanacademy.org/mission/trigonometry)
 
 #### Pre Calculus
-- [X] [Khan - Pre-Calculus](https://www.khanacademy.org/mission/precalculus)
+- [ ] [Khan - Pre-Calculus](https://www.khanacademy.org/mission/precalculus)
 
 #### Statistics and Probability
-- [X] [Khan - Highschool Statistics](https://www.khanacademy.org/mission/probability)
+- [ ] [Khan - Highschool Statistics](https://www.khanacademy.org/mission/probability)
 
 *Required Reading*
-- [X] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
+- [ ] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
 
 
 ## Module 1 - College Math I (Calculus)
@@ -101,7 +101,7 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 ### 3.1 Proofs and Logic
 Proofs, Set theory, propositional logic, induction, invariants, state-machines
 
-- [X] [Coursera - What is a Proof?](https://www.coursera.org/learn/what-is-a-proof)
+- [ ] [Coursera - What is a Proof?](https://www.coursera.org/learn/what-is-a-proof)
 - [ ] [MIT - Mathematics for Computer Science (2015): Unit 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 - [ ] [MIT - Mathematics for Computer Science (2010): Weeks 1,2,3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 - [ ] 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
@@ -112,26 +112,26 @@ Number theory is fundamental in reasoning about numbers as discrete mathematic s
 
 By the end of this sub-module you should be very confident proving and reasoning about concepts including: divisibility, bezouts identity, modular arithmetic, eulers totient theorem, fermats little theorem, integer factorization, diophantine equations, the fundemental theorem of arithmetic, chinese remainder theorem, RSA and the discrete logarithm problem.
 
-- [X] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
-- [X] [MIT - Mathematics for Computer Science (2010) - Number Theory I and II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/)
-- [X] [MIT - Mathematics for Computer Science (2015) - GCDs, Congruences, Euler's Theorem, and RSA](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/)
+- [ ] [Coursera - Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)
+- [ ] [MIT - Mathematics for Computer Science (2010) - Number Theory I and II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/)
+- [ ] [MIT - Mathematics for Computer Science (2015) - GCDs, Congruences, Euler's Theorem, and RSA](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/)
 
 **Problem Sets**
-- [X] [MIT - Mathematics for Computer Science (2010): Recitation 4](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec04.pdf)
-- [X] [MIT - Mathematics for Computer Science (2010): Recitation 5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec05.pdf)
-- [X] [MIT - Mathematics for Computer Science (2010): Assignment 3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn03.pdf)
+- [ ] [MIT - Mathematics for Computer Science (2010): Recitation 4](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec04.pdf)
+- [ ] [MIT - Mathematics for Computer Science (2010): Recitation 5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec05.pdf)
+- [ ] [MIT - Mathematics for Computer Science (2010): Assignment 3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn03.pdf)
 
 *Worked solutions to problem sets [here](https://github.com/desicochrane/mathematics-for-computer-science/blob/master/number-theory.ipynb)*
 
 **Optional Supplementary Material**
-- [X] [Coursera - Classical Cryptosystems and Core Concepts](https://www.coursera.org/learn/classical-cryptosystems)
-- [X] [Coursera - Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography)
+- [ ] [Coursera - Classical Cryptosystems and Core Concepts](https://www.coursera.org/learn/classical-cryptosystems)
+- [ ] [Coursera - Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography)
 
 
 ### 3.3 Combinatorics
 Combinatorics is a vital skill in reasoning about the size of finite sets.
 
-- [X] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
+- [ ] [Coursera - Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)
 - [ ] [Coursera - Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics)
 - [ ] [MIT - Mathematics for Computer Science (2010) - Counting Rules I and II](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-16-counting-rules-i/)
 - [ ] [MIT - Mathematics for Computer Science (2015) - Counting](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/)
@@ -196,9 +196,9 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
 ### Algorithms
 
-- [X] [Coursera - Divide and Conquer, Sorting and Searching, and Randomized Algorithms][algs01]
-- [X] [Coursera - Graph Search, Shortest Path, and Data Structures][algs02]
-- [X] [Coursera - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming][algs03]
+- [ ] [Coursera - Divide and Conquer, Sorting and Searching, and Randomized Algorithms][algs01]
+- [ ] [Coursera - Graph Search, Shortest Path, and Data Structures][algs02]
+- [ ] [Coursera - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming][algs03]
 - [ ] [Coursera - Shortest Paths Revisited, NP-Complete Problems][algs04]
 
 [algs01]: https://www.coursera.org/learn/algorithms-divide-conquer
@@ -207,8 +207,8 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 [algs04]: https://www.coursera.org/learn/algorithms-npcomplete
 
 *Resources*
-- [X] 📚 [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
-- [X] 📚 [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
+- [ ] 📚 [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+- [ ] 📚 [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
 - [ ] 📚 [Introduction to Algorithms (CLRS)](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20)
 - [ ] 📚 [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
 - [ ] 📚 [Algorithms (Dasgupta)](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402) 
@@ -276,7 +276,7 @@ https://www.coursera.org/specializations/aml
 
 **Machine Learning Specialization by University of Washington on Coursera**
 - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
-- [X] [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression)
+- [ ] [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression)
 - [ ] [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification)
 - [ ] [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval)
 
@@ -300,7 +300,7 @@ https://www.coursera.org/specializations/aml
 
 #### Deep Learning by deeplearning.ai on Coursera
 
-- [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/)
+- [ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/)
 - [ ] [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization](https://www.coursera.org/learn/deep-neural-network)
 - [ ] Structuring Machine Learning Projects
 - [ ] Convolutional Neural Networks
