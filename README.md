@@ -107,6 +107,8 @@ Proofs, Set theory, propositional logic, induction, invariants, state-machines
 - [ ] 📚 [How to Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995)
 - [ ] 📚 [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/BookOfProof.pdf)
 
+* https://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf
+
 ### 3.2 Number Theory
 Number theory is fundamental in reasoning about numbers as discrete mathematic structures with applications in cryptography and efficient numerical computation.
 
@@ -215,6 +217,7 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 - [ ] 📚 [Algorithm Design (Tardos and Kleinberg)](https://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358)
 - [ ] 📚 [Algorithms (Sedgewick)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)
 
+
 * [Khan Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 * [MIT 6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 * [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
@@ -233,7 +236,7 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 * [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)
 * [Data Structures & Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 * [Approximation Algorithms I & II](https://www.coursera.org/learn/approximation-algorithms-part-1)
-
+* http://jeffe.cs.illinois.edu/teaching/algorithms/?#book
 
 #### Information Theory
 
@@ -256,8 +259,8 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 * https://www.coursera.org/learn/introduction-mongodb
 * https://university.mongodb.com/
 * https://www.khanacademy.org/computing/computer-science/informationtheory
-
-
+* https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O
+* https://www.brianstorti.com/replication/
 
 ## Module 6 - Artificial Intelligence and Machine Learning
 
@@ -343,6 +346,9 @@ Goals:
 * http://blog.floydhub.com/coding-the-history-of-deep-learning/
 * https://www.udacity.com/course/deep-learning--ud730
 * https://stats385.github.io/
+* https://p.migdal.pl/interactive-machine-learning-list/
+* https://scrimba.com/g/gneuralnetworks
+
 
 ## Module 8 - Data Mining and Recommenders
 
@@ -407,6 +413,9 @@ Goals:
 * https://ai.google/education
 * https://mlcourse.ai/
 * https://mml-book.github.io/
+* https://github.com/lexfridman/mit-deep-learning/blob/master/README.md#mit-deep-learning
+* http://d2l.ai/chapter_introduction/index.html
+* https://www.jgoertler.com/visual-exploration-gaussian-processes/
 
 ## Reading List
 
