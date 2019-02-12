@@ -406,6 +406,7 @@ Goals:
 * http://www.scipy-lectures.org/
 * https://github.com/mr-mig/every-programmer-should-know
 
+
 * computational geometry https://www.youtube.com/watch?v=rho8QqiHOe4
 * kaggle school https://www.kaggle.com/learn/overview
 * MIT self driving https://selfdrivingcars.mit.edu/
