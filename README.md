@@ -420,6 +420,7 @@ Goals:
 * https://lectures.quantecon.org/py/short_path.html
 
 
+* https://hacker-tools.github.io/
 
 ## Reading List
 
