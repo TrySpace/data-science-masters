@@ -417,6 +417,9 @@ Goals:
 * https://github.com/lexfridman/mit-deep-learning/blob/master/README.md#mit-deep-learning
 * http://d2l.ai/chapter_introduction/index.html
 * https://www.jgoertler.com/visual-exploration-gaussian-processes/
+* https://lectures.quantecon.org/py/short_path.html
+
+
 
 ## Reading List
 
@@ -435,3 +438,4 @@ Goals:
 - [ ] [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
 - [ ] [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
 - [ ] https://blog.ycombinator.com/learning-math-for-machine-learning/
+
