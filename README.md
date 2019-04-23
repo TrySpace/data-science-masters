@@ -405,7 +405,7 @@ Goals:
 * https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
 * http://www.scipy-lectures.org/
 * https://github.com/mr-mig/every-programmer-should-know
-
+* https://online-learning.harvard.edu/series/professional-certificate-data-science
 
 * computational geometry https://www.youtube.com/watch?v=rho8QqiHOe4
 * kaggle school https://www.kaggle.com/learn/overview
