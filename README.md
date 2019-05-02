@@ -418,8 +418,7 @@ Goals:
 * http://d2l.ai/chapter_introduction/index.html
 * https://www.jgoertler.com/visual-exploration-gaussian-processes/
 * https://lectures.quantecon.org/py/short_path.html
-
-
+* http://webdam.inria.fr/Alice/ [databases]
 * https://hacker-tools.github.io/
 
 ## Reading List
