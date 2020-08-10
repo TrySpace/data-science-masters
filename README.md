@@ -57,10 +57,10 @@ Not everyone was lucky enough to have a good start with math growing up. The goa
 
 ## Module 1 - College Math I (Calculus)
 
-- [ ] [Khan - Differential Calculus](https://www.khanacademy.org/mission/differential-calculus) - 8%
-- [ ] [Khan - Integral Calculus](https://www.khanacademy.org/mission/integral-calculus) - 7%
-- [ ] [Khan - AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab) - 2%
-- [ ] [Khan - AP Calculus BC](https://www.khanacademy.org/mission/ap-calculus-bc) - 2%
+- [ ] [Khan - Differential Calculus](https://www.khanacademy.org/mission/differential-calculus) 
+- [ ] [Khan - Integral Calculus](https://www.khanacademy.org/mission/integral-calculus)
+- [ ] [Khan - AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab)
+- [ ] [Khan - AP Calculus BC](https://www.khanacademy.org/mission/ap-calculus-bc) 
 - [ ] [MIT - Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
 
 *Supplementary Material*
